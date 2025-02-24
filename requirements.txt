@@ -6,3 +6,4 @@ keras
 pillow
 scikit-learn
 werkzeug
+gunicorn
