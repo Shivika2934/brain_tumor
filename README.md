@@ -1,4 +1,5 @@
 # Brain Tumor Detection from MRI Scans
+![brain](https://github.com/user-attachments/assets/46a6ab99-0890-4bd8-85ca-ebaebc047201)
 
 **AI-Driven Image Analysis System**
 
