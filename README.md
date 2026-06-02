@@ -5,8 +5,6 @@
 
 This project implements an AI-powered image analysis pipeline that predicts the presence of brain tumors from MRI scans, ensuring **accurate**, **efficient**, and **automated** diagnostic support for medical professionals.
 
----
-
 ##  Tech Stack
 
 - **Language**: Python  
