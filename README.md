@@ -1,8 +1,6 @@
 # Brain Tumor Detection from MRI Scans
 ![brain](https://github.com/user-attachments/assets/46a6ab99-0890-4bd8-85ca-ebaebc047201)
 
-**AI-Driven Image Analysis System**
-
 This project implements an AI-powered image analysis pipeline that predicts the presence of brain tumors from MRI scans, ensuring **accurate**, **efficient**, and **automated** diagnostic support for medical professionals.
 
 ##  Tech Stack
