@@ -9,7 +9,7 @@ This project implements an AI-powered image analysis pipeline that predicts the 
 - **Deep Learning Frameworks**: TensorFlow, Keras  
 - **Image Preprocessing / Computer Vision**: OpenCV  
 
-## Live App
+## Live Demo
 https://huggingface.co/spaces/sm2934/brain_tumor_detection
 
 ##  Project Overview
